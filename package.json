@@ -16,7 +16,7 @@
     "lint:prettier:check": "prettier --check . '!dist/**/*'"
   },
   "dependencies": {
-    "lodash.sample": "^4.2.1",
+    "lodash.sample": "4.2.1",
     "widont": "0.3.3"
   },
   "devDependencies": {
