@@ -37,7 +37,8 @@
       "prettier"
     ],
     "ignorePatterns": [
-      "dist/**/*"
+      "dist/**/*",
+      "**/*.html"
     ]
   },
   "stylelint": {
