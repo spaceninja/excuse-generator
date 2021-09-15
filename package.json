@@ -67,12 +67,5 @@
         }
       }
     ]
-  },
-  "renovate": {
-    "extends": [
-      "config:base",
-      ":automergeMinor"
-    ],
-    "dependencyDashboard": true
   }
 }
