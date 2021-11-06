@@ -26,7 +26,7 @@
     "prettier": "2.4.1",
     "stylelint": "13.13.1",
     "stylelint-config-prettier": "8.0.2",
-    "stylelint-config-spaceninja": "7.0.0",
+    "stylelint-config-spaceninja": "9.0.1",
     "vite": "2.6.13"
   },
   "eslintConfig": {
